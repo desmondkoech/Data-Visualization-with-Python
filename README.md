@@ -1,2 +1,2 @@
-# Data-Visualization-with-Python
-This Data is about population of countries whereby I visualize it with python
+# data-visualization-with-python
+This data is about population of countries whereby I visualized it with python
