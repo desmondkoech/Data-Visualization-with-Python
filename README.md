@@ -1,2 +1,2 @@
 # Data-Visualization-with-python
-This project is about population of countries
+This Data is about population of countries whereby I visualize it with python
